@@ -1,3 +1,21 @@
+pardus-store (0.2.0~beta5) unstable; urgency=medium
+
+  * Make survey applications detail discoverable
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Tue, 07 Aug 2018 12:06:17 +0300
+
+pardus-store (0.2.0~beta4) unstable; urgency=medium
+
+  * Fix navigation problem after selecting from Home screen
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Mon, 06 Aug 2018 14:39:22 +0300
+
+pardus-store (0.2.0~beta3) unstable; urgency=medium
+
+  * Remove CategoryDelegate.qml file and fix config issues coused by upgrading
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Mon, 06 Aug 2018 14:12:22 +0300
+
 pardus-store (0.2.0~beta2) unstable; urgency=medium
 
   * Make home screen banner stretchable
